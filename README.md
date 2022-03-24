@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
+<h1 align="center">Hi 👋, I'm Robert Rieger II</h1>
 <h3 align="center">A senior at UNCW</h3>
 
 - 🔭 I’m currently working on [Truck Track](https://github.com/douglaskline/trucktrackrepo)
