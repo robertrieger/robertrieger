@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Rieger II</h1>
-<h3 align="center">A senior at UNCW</h3>
+<h3 align="center">Graduate of UNCW - Bachelors of Science - Information Technology</h3>
 
 - 🔭 I’m currently working on [Truck Track](https://github.com/douglaskline/trucktrackrepo)
 
